@@ -5,7 +5,7 @@ categories: object detection
 excerpt: 
 tags: 实习
 ---
-### **matching human poses**
+### **match human pose**
 
 *we have the 2D joint points of two poses:*
 
