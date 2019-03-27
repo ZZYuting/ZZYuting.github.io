@@ -1,7 +1,7 @@
 ---
 title: match human pose
 layout: post
-categories: object detection
+categories: detection
 excerpt: 
 tags: 实习
 ---
