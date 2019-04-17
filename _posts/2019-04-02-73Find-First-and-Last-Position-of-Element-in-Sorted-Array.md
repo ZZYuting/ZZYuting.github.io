@@ -1,7 +1,7 @@
 ---
 title: 73 Find First and Last Position of Element in Sorted Array
 layout: post
-categories: 排序和搜索
+categories: 二分
 excerpt: 
 Tags: leetcode
 ---
